@@ -7,10 +7,10 @@ UMD Computer Science Student
 I am a diligent and innovative student ready to work and learn in a professional environment. UMD Class of 2026
 
 * 🌍  I'm based in Maryland
-* 🎓  I'm a student in UMD - Class of 2026
-  * Double Major in Computer Science and Business & Management
+* 🎓  I'm a student in UMD - Class of 2025
+  * Major in Computer Science and Minor in Computational Finance
 * ✉️   You can contact me at [ramorSTEM2022@gmail.com](mailto:ramorSTEM2022@gmail.com)
-* 🧠  I'm learning SwiftUI & Java
+* 🧠  I'm learning Machine Learning and Quantitative Finance
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
