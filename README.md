@@ -1,4 +1,4 @@
-Hello 👋! My name is Rodz Andrie Amor
+Hello 👋! My name is Rodz Andrie Amor (Andre Amor)
 ==========================
 
 UMD Computer Science Student
