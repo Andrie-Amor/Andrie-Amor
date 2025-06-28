@@ -1,17 +1,17 @@
-Hello 👋! My name is Rodz Andrie Amor (Andre Amor)
+Hello 👋! My name is Andre Amor (Full Name is Rodz Andrie Amor)
 ==========================
 
 UMD Computer Science Student
 ----------------------------
 
-I am a diligent and innovative student ready to work and learn in a professional environment. UMD Class of 2026
+UMD Class of 2026
 
 * 🌍  I'm based in Maryland
-* 🎓  I'm a student in UMD - Class of 2026
-  * Major in Computer Science and Applied Mathematics, Minor in Computational Finance
+* 🎓  I'm a student in UMD - Graduating December 2025
+  * Double Degree in Computer Science and Applied Mathematics, Minor in Computational Finance
 * ✉️   You can contact me at [ramorSTEM2022@gmail.com](mailto:ramorSTEM2022@gmail.com)
-* 🧠  I'm learning Machine Learning and Quantitative Finance
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🧠  I'm learning Machine Learning and System Development
+* 🤝  I'm open to collaborating on interesting & challenging projects
 
 ### Skills
 
