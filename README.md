@@ -1,16 +1,13 @@
 Hello 👋!
-
-My name is Andre Amor (Full Name is Rodz Andrie Amor)
 ==========================
 
-Software Engineer
-----------------------------
-* 🌍  I'm based in Maryland
-* 🎓  I'm a student in UMD - Graduating December 2025
+My name is Andre Amor (Rodz Andrie Amor). I'm a Software Engineer.
+* 🌍  Based in Maryland
+* 🎓  Student in UMD - Graduating December 2025
   * Double Degree in Computer Science and Applied Mathematics, Minor in Computational Finance
 * ✉️   You can contact me at [ramorSTEM2022@gmail.com](mailto:ramorSTEM2022@gmail.com)
-* 🧠  I'm learning Machine Learning and System Development
-* 🤝  I'm open to collaborating on interesting & challenging projects
+* 🧠  Learning Machine Learning and System Development
+* 🤝  Open to collaborating on interesting & challenging projects
 
 ### Skills
 
