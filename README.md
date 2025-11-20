@@ -1,7 +1,7 @@
-Hello 👋!
+Hi!
 ==========================
 
-My name is Andre Amor (Rodz Andrie Amor). I'm a Software Engineer.
+My name is Andre Amor (Rodz Andrie Amor). I'm a Software Engineer at Netflix.
 * 🌍  Based in San Francisco, CA
 * 🎓  Alum in UMD
   * Double Degree in Computer Science and Applied Mathematics, Minor in Computational Finance
